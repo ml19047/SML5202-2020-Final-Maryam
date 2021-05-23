@@ -1,34 +1,3 @@
-    <style>
-    </style>
-
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-  <div class="container-fluid">
-    <div class="navbar-header">
-     
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
-      </button>
-      
-      <a class="navbar-brand" href="#">Learn Spanish with me!</a>
-    </div>
-     
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav navbar-right">
-        
-  <li><a href="/SML5202-2020-Final-Maryam">Home</a></li>
-      <li class="active"><a href="greetings.html">Greetings</a></li>
-      <li><a href="page3.html">Resturant </a></li>
-      <li><a href="page4.html">Grammar</a></li>
-      <li><a href="page5.html">Page 5</a></li>
-        
- </ul>
- </div>
-</div>
-</nav>
-
-
 
 <h1>Page 2</h1>
 <p>Some content</p>
