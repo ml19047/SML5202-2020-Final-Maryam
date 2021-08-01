@@ -2,7 +2,7 @@
 <p>Have you always wanted to dip your toes into the world of Spanish language and culture but always had no idea where to start? This is the perfect website for you!</p>
 
 <h3>Why learn Spanish?</h3>
-<p>Spanish is the 4th most widely spoken language in the world, with approximately 534 million speakers across all continents. This means that Spanish is one of the best langauges to learn for keen travellers. Exposing yourself to a whole new culture an language helps you to become a well rounded indivdual.</p>
+<p>Spanish is the 4th most widely spoken language in the world, with approximately 534 million speakers across all continents. This means that Spanish is one of the best langauges to learn for keen travellers. Exposing yourself to a whole new culture and language helps you to become a well rounded indivdual.</p>
 
 
 <h3>How to use this website?</h3>
