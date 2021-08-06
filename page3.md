@@ -27,7 +27,7 @@ pre {
 
 <pre>
 
-Video teaches how to order food and drink
+Video teaches how to order food and drink in Spanish
 
 </pre>
 
