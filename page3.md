@@ -54,25 +54,25 @@ Video teaches how to order food and drink in Spanish
     <thead>
       <tr>
         <th>Infinitive</th>
-        <th>Present form (yo/I)</th>
-        <th>Future form (yo/I)</th>
+        <th>Present form (Yo/I)</th>
+        <th>Future form (Yo/I)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Comer (to eat)</td>
-        <td>Como</td>
-        <td>Comeré</td>
+        <td>Comer (To eat)</td>
+        <td>Como (I eat)</td>
+        <td>Comeré (I will eat)</td>
       </tr>
       <tr>
-        <td>Beber (to drink)</td>
-        <td>Bebo</td>
-        <td>beberé</td>
+        <td>Beber (To drink)</td>
+        <td>Bebo (I drink)</td>
+        <td>beberé (I will drink)</td>
       </tr>
       <tr>
-        <td>Desayunar(to have breakfast)</td>
-        <td>Desayuno</td>
-        <td>Desayunaré</td>
+        <td>Desayunar (To have breakfast)</td>
+        <td>Desayuno (I have breakfast)</td>
+        <td>Desayunaré (I will have breakfast)</td>
       </tr>
     </tbody>
   </table>
