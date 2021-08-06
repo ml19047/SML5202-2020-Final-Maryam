@@ -48,32 +48,32 @@ Video teaches basic travelling terms
 
 <!-- THIS IS THE THIRD SECTION OF THE PAGE -->
 <div class="container"> 
-<h1>Grammar</h1>
-
-  <p>These are some of the basic verbs in Spanish:</p>            
+<h1>Verb forms</h1>
+ <h2>Some irregular verbs</h2>
+  <p>These are some of the basic irregular verbs in Spanish:</p>            
   <table class="table table-striped">
     <thead>
       <tr>
         <th>Infinitive</th>
-        <th>Present form (yo)</th>
-        <th>Future form (yo)</th>
+        <th>Present form (yo/I)</th>
+        <th>Future form (yo/I)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Viajar</td>
+        <td>Viajar (to travel)</td>
         <td>Viajo</td>
         <td>Viajaré</td>
       </tr>
       <tr>
-        <td>Volar</td>
+        <td>Volar (to fly)</td>
         <td>Vuelo</td>
         <td>Volaré</td>
       </tr>
       <tr>
         <td>Conducir</td>
         <td>Conduzco</td>
-        <td>conduciré/td>
+        <td>Conduciré</td>
       </tr>
     </tbody>
   </table>
@@ -90,6 +90,11 @@ Video teaches basic travelling terms
 
 
  
+
+
+
+
+
 
 
 
