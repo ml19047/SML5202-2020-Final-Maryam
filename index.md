@@ -46,7 +46,7 @@
   </div>
 </div>
 <hr/>
-</div>
+
 
 
 <!-- THIS IS THE FOOTER SECTION OF THE PAGE -->
