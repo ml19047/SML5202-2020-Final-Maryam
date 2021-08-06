@@ -1,2 +1,97 @@
-<h1>Page 5</h1>
-<p>write your content in this file as you would normally</p>
+
+<body>
+
+<div class="container">  
+
+<div class="container">  
+
+<h2>Introduction</h2>
+<p>In this section you can watch a video about travelling in Spanish.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1BY1lHeUi0Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  
+
+<style>
+
+pre {
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #333;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #d0a8a8;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+</style>
+
+<pre>
+
+Video teaches basic travelling terms 
+
+</pre>
+
+
+
+
+
+
+
+
+<hr/>
+</div>
+
+<!-- THIS IS THE THIRD SECTION OF THE PAGE -->
+<div class="container"> 
+<h1>Grammar</h1>
+
+  <p>These are some of the basic verbs in Spanish:</p>            
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Infinitive</th>
+        <th>Present form (yo)</th>
+        <th>Future form (yo)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Viajar</td>
+        <td>Viajo</td>
+        <td>Viajaré</td>
+      </tr>
+      <tr>
+        <td>Volar</td>
+        <td>Vuelo</td>
+        <td>Volaré</td>
+      </tr>
+      <tr>
+        <td>Conducir</td>
+        <td>Conduzco</td>
+        <td>conduciré/td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
+<!-- THIS IS THE FOOTER SECTION OF THE PAGE -->
+<p>Last updated: 24<sup>th</sup> November 2020.</p>
+
+	
+</body>
+</html>
+
+
+
+ 
+
+
+
+
+
