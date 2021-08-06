@@ -46,30 +46,29 @@ Video teaches basic greetings
 
 <!-- THIS IS THE THIRD SECTION OF THE PAGE -->
 <div class="container"> 
-<h1>Verb forms</h1>
- <h2>Some irregular verbs</h2>
+ <h2>Grammar</h2>
   <p>These are some of the basic irregular verbs in Spanish:</p>            
   <table class="table table-striped">
     <thead>
       <tr>
         <th>Infinitive</th>
-        <th>Present form (yo)</th>
-        <th>Future form (yo)</th>
+        <th>Present form (yo/I)</th>
+        <th>Future form (yo/I)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Ir</td>
+        <td>Ir (to go)</td>
         <td>Voy</td>
         <td>Iré</td>
       </tr>
       <tr>
-        <td>Tener</td>
+        <td>Tener (to have)</td>
         <td>Tengo</td>
         <td>Tendré</td>
       </tr>
       <tr>
-        <td>Hacer</td>
+        <td>Hacer (to do)</td>
         <td>Hago</td>
         <td>Haré</td>
       </tr>
