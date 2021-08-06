@@ -55,25 +55,25 @@ Video teaches basic shopping terms
     <thead>
       <tr>
         <th>Infinitive</th>
-        <th>Present form (yo/I)</th>
-        <th>Future form (yo/I)</th>
+        <th>Present form (Yo/I)</th>
+        <th>Future form (Yo/I)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>Comprar (To buy)</td>
-        <td>Compro(I buy)</td>
-        <td>Compraré(I bought)</td>
+        <td>Compro (I buy)</td>
+        <td>Compraré (I will buy)</td>
       </tr>
       <tr>
         <td>Tener (To have) </td>
-        <td>Tengo(I have)</td>
-        <td>Tendré (I had)</td>
+        <td>Tengo (I have)</td>
+        <td>Tendré (I will have)</td>
       </tr>
       <tr>
-        <td>Probar(To try)</td>
-        <td>Pruebo(I try)</td>
-        <td>Probaré(I tried)</td>
+        <td>Probar (To try)</td>
+        <td>Pruebo (I try)</td>
+        <td>Probaré (I will try)</td>
       </tr>
     </tbody>
   </table>
