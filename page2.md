@@ -52,8 +52,8 @@ Video teaches basic greetings
     <thead>
       <tr>
         <th>Infinitive</th>
-        <th>Present form (yo/I)</th>
-        <th>Future form (yo/I)</th>
+        <th>Present form (Yo/I)</th>
+        <th>Future form (Yo/I)</th>
       </tr>
     </thead>
     <tbody>
