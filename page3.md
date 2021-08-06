@@ -7,7 +7,7 @@
 <h2>Introduction</h2>
 <p>In this section you can watch a video about food and drink in Spanish.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2RELTSJOa3E&t=225s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2RELTSJOa3E&t" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     
     
