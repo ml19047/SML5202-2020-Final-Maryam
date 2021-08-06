@@ -1,12 +1,16 @@
-
 <body>
 
 <div class="container">  
 
+<div class="container">  
+
+<h2>Introduction</h2>
 <p>In this section you can watch a video about greetings in Spanish.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2RELTSJOa3E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2RELTSJ0a3E&t=217s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+    
+    
 <style>
 
 pre {
@@ -28,9 +32,17 @@ pre {
 <pre>
 
 Video teaches how to order food and drink in Spanish
-
 </pre>
 
+
+
+
+
+
+
+
+<hr/>
+</div>
 
 
 
