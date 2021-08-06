@@ -4,7 +4,7 @@
 
 <div class="container">  
 
-<h2>Introduction</h2>
+<h1>Introduction</h1>
 <p>In this section you can watch a video about food and drink in Spanish.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2RELTSJOa3E&t" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -54,23 +54,23 @@ Video teaches how to order food and drink in Spanish
     <thead>
       <tr>
         <th>Infinitive</th>
-        <th>Present form (yo)</th>
-        <th>Future form (yo)</th>
+        <th>Present form (yo/I)</th>
+        <th>Future form (yo/I)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Comer</td>
+        <td>Comer (to eat)</td>
         <td>Como</td>
         <td>Comeré</td>
       </tr>
       <tr>
-        <td>Beber</td>
+        <td>Beber (to drink)</td>
         <td>Bebo</td>
         <td>beberé</td>
       </tr>
       <tr>
-        <td>Desayunar</td>
+        <td>Desayunar(to have breakfast)</td>
         <td>Desayuno</td>
         <td>Desayunaré</td>
       </tr>
