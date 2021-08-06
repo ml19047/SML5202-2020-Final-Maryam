@@ -1,4 +1,37 @@
 
+<body>
+
+<div class="container">  
+
+<p>In this section you can watch a video about greetings in Spanish.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TZ0bPXFHiiY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<style>
+
+pre {
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #333;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #d0a8a8;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+</style>
+
+<pre>
+
+Video teaches basic greetings
+
+</pre>
+
+
 
 
 <div class="container"> 
