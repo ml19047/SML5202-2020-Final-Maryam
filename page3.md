@@ -47,8 +47,8 @@ Video teaches how to order food and drink in Spanish
 
 
 <div class="container"> 
-<h1>Grammar</h1>
- <h2>Some verbs</h2>
+
+ <h2>Grammar</h2>
   <p>These are some of the basic verbs to do with food and drink in Spanish:</p>            
   <table class="table table-striped">
     <thead>
