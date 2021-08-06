@@ -58,19 +58,19 @@ Video teaches basic greetings
     </thead>
     <tbody>
       <tr>
-        <td>Ir (to go)</td>
-        <td>Voy</td>
-        <td>Iré</td>
+        <td>Ir (To go)</td>
+        <td>Voy (I go)</td>
+        <td>Iré (I will go)</td>
       </tr>
       <tr>
-        <td>Tener (to have)</td>
-        <td>Tengo</td>
-        <td>Tendré</td>
+        <td>Tener (To have)</td>
+        <td>Tengo (I have)</td>
+        <td>Tendré (I will have)</td>
       </tr>
       <tr>
-        <td>Hacer (to do)</td>
-        <td>Hago</td>
-        <td>Haré</td>
+        <td>Hacer (To do)</td>
+        <td>Hago (I do)</td>
+        <td>Haré (I will do)</td>
       </tr>
     </tbody>
   </table>
