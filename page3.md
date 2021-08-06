@@ -27,7 +27,7 @@ pre {
 
 <pre>
 
-Video teaches basic greetings
+Video teaches how to order food and drink
 
 </pre>
 
