@@ -4,7 +4,7 @@
 <div class="container">  
 
 <div class="container">  
-<h1>Spanish</h1>
+
 <h2>Introduction</h2>
 <p>In this section you can watch a video about greetings in Spanish.</p>
 
