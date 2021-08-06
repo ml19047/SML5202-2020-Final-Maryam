@@ -48,27 +48,27 @@ Video teaches basic travelling terms
 
 <!-- THIS IS THE THIRD SECTION OF THE PAGE -->
 <div class="container"> 
-<h1>Verb forms</h1>
- <h2>Some irregular verbs</h2>
+
+ <h2>Grammar</h2>
   <p>These are some of the basic irregular verbs in Spanish:</p>            
   <table class="table table-striped">
     <thead>
       <tr>
         <th>Infinitive</th>
-        <th>Present form (yo/I)</th>
-        <th>Future form (yo/I)</th>
+        <th>Present form (Yo/I)</th>
+        <th>Future form (Yo/I)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Viajar (to travel)</td>
-        <td>Viajo</td>
-        <td>Viajaré</td>
+        <td>Viajar (To travel)</td>
+        <td>Viajo (I travel)</td>
+        <td>Viajaré (I will travel)</td>
       </tr>
       <tr>
-        <td>Volar (to fly)</td>
-        <td>Vuelo</td>
-        <td>Volaré</td>
+        <td>Volar (To fly)</td>
+        <td>Vuelo (I fly)</td>
+        <td>Volaré (I will fly)</td>
       </tr>
       <tr>
         <td>Conducir</td>
