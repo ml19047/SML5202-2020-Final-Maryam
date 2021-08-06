@@ -81,7 +81,7 @@ Video teaches basic shopping terms
 </div>
 
 <!-- THIS IS THE FOOTER SECTION OF THE PAGE -->
-<p>Last updated: 24<sup>th</sup> November 2020.</p>
+<p>Last updated: 6<sup>th</sup> August 2021.</p>
 
 	
 
