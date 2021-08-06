@@ -48,32 +48,32 @@ Video teaches basic shopping terms
 
 <!-- THIS IS THE THIRD SECTION OF THE PAGE -->
 <div class="container"> 
-<h1>Grammar</h1>
+<h2>Grammar</h2>
 
   <p>These are some of the basic verbs in Spanish:</p>            
   <table class="table table-striped">
     <thead>
       <tr>
         <th>Infinitive</th>
-        <th>Present form (yo)</th>
-        <th>Future form (yo)</th>
+        <th>Present form (yo/I)</th>
+        <th>Future form (yo/I)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Comprar</td>
-        <td>Compro</td>
-        <td>Compraré</td>
+        <td>Comprar (To buy)</td>
+        <td>Compro(I buy)</td>
+        <td>Compraré(I bought)</td>
       </tr>
       <tr>
-        <td>Tener</td>
-        <td>Tengo</td>
-        <td>Tendré</td>
+        <td>Tener (To have) </td>
+        <td>Tengo(I have)</td>
+        <td>Tendré (I had)</td>
       </tr>
       <tr>
-        <td>Probar</td>
-        <td>Pruebo</td>
-        <td>Probaré</td>
+        <td>Probar(To try)</td>
+        <td>Pruebo(I try)</td>
+        <td>Probaré(I tried)</td>
       </tr>
     </tbody>
   </table>
@@ -84,8 +84,7 @@ Video teaches basic shopping terms
 <p>Last updated: 24<sup>th</sup> November 2020.</p>
 
 	
-</body>
-</html>
+
 
 
 
