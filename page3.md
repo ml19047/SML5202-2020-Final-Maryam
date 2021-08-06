@@ -78,3 +78,6 @@ Video teaches how to order food and drink in Spanish
   </table>
 
 </div>
+    
+    <!-- THIS IS THE FOOTER SECTION OF THE PAGE -->
+<p>Last updated: 6<sup>th</sup> August 2021.</p>
