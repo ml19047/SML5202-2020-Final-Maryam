@@ -8,3 +8,42 @@
 <h3>How to use this website?</h3>
 <p>Using the website is very simple, simply click on the topic in the navigation bar you would like to learn more about. At the start of each page you will find a lesson, followed by a game to test your knowledge. Feel free to go at your own pace, and you can always revisit one of the previous pages if you would like to revise that topic. Happy Learning!</p>
 
+<hr/>
+</div> 
+	
+
+<div class="container">
+<div class="row">
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="flag.png">
+        <img src="flag.png" alt="Flag" style="width:100%">
+        <div class="caption">
+          <p>This is the flag of Spain</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="map.png">
+        <img src="map.png" alt="Map" style="width:100%">
+        <div class="caption">
+          <p>This is a map of Spain.</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="churros.jpg">
+        <img src="churros.jpg" alt="Churros" style="width:100%">
+        <div class="caption">
+          <p>These are churros, a popular treat in spain</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+<hr/>
+</div>
