@@ -80,7 +80,7 @@ Video teaches basic travelling terms
 
 </div>
 	
-<h2>A quick game to test your knowledge!</h2>	
+<h2>A quick task to test your knowledge!</h2>	
 	
 	<iframe src="https://h5p.org/h5p/embed/1204013" width="1090" height="342" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="At the Airport!"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
