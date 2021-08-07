@@ -71,9 +71,9 @@ Video teaches basic travelling terms
         <td>Volaré (I will fly)</td>
       </tr>
       <tr>
-        <td>Conducir</td>
-        <td>Conduzco</td>
-        <td>Conduciré</td>
+        <td>Conducir (To drive)</td>
+        <td>Conduzco (I drive)</td>
+        <td>Conduciré (I will drive)</td>
       </tr>
     </tbody>
   </table>
